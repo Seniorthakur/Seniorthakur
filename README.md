@@ -3,7 +3,7 @@
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">  <img title="VS Code" alt="VS Code" width="40px" src="https://github.com/Seniorthakur/Logo/blob/main/vcode.png"> <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> <img title="Android Studio" alt="Android Studio" width="40px" src="https://github.com/Seniorthakur/Logo/blob/main/Android-studio.png">
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">  <img title="VS Code" alt="VS Code" width="40px" src="https://github.com/Seniorthakur/Logo/blob/main/vcode.png"> <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> <img title="Android Studio" alt="Android Studio" width="40px" src="https://github.com/Seniorthakur/Logo/blob/main/Android-studio.png"> <img title="xampp" alt="xampp" width="40px" src="https://github.com/Seniorthakur/Logo/blob/main/xampp.png">
 <br>
 
 ## Some of my stats :bar_chart:
